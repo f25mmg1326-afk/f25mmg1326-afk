@@ -35,9 +35,11 @@ BS Multimedia & Gaming Student at Aror University, Sukkur, Pakistan.
 - Artificial Intelligence
 
 ## Connect With Me
-- GitHub: https://github.com/f25mmg1326-afk
-- LinkedIn: https://www.linkedin.com/in/umair-ali-a81304386
-
+<a href="https://www.linkedin.com/in/umair-ali-a81304386">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/u_khuhro/">
+    <img
 ---
 
 **Learning | Building | Creating**
