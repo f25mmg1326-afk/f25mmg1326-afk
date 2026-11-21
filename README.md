@@ -16,18 +16,19 @@ BS Multimedia & Gaming Student at Aror University, Sukkur, Pakistan.
 - C#
 - HTML & CSS
 - Unity
-- Git & GitHub
-- SQLite
-
 ## Projects
-- Green Quest – Game Development
-- CyberShield AI – Scam Detection Platform
-- Store Management System – C++
-- ATM Simulator – Java
-- Smart Banking System – Python and SQLite
-
+1. Tic Tac Toe Game
+- Semester: 1st Semester
+- Language: C++
+2. University Management System
+- Semester: 2nd Semester
+- Language: Java
+3. Green Quest – 3D Adventure Game
+- Semester: 3rd Semester
+- Technology: Unity 3D, C#
 ## Currently Learning
 - C# Programming
+- C++ Programming
 - Unity Game Development
 - Python
 - Cybersecurity
